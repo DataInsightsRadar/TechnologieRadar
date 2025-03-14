@@ -1,1 +1,2 @@
 # TechnologieRadar
+Anleitung folgt
